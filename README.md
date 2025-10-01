@@ -1,7 +1,7 @@
 <img align="right"  height="100" width="150" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" alt="man-comp" border="0" />
 <h1 align="center">Hi there,<img src="https://img.icons8.com/color/48/000000/man-raising-hand-icon.png"/> I'm Chandan Kumar</h1>
 <h3 align="center">I'm a passionate Software Development Engineer󠀠<br>
-<img src="https://img.icons8.com/external-becris-flat-becris/64/000000/external-technology-literary-genres-becris-flat-becris.png" height="50" width="50"/> 󠀠󠀠5+ years of professional experience in Software development, well-versed in Software Development Lifecycle including Docker, Kubernetes and other tools, I'm also a Certified Kubernetes Administrator(CKA) by CNCF and Open Source contributer + maintainer of <a href="https://github.com/litmuschaos/litmus"> LitmusChaos 
+<img src="https://img.icons8.com/external-becris-flat-becris/64/000000/external-technology-literary-genres-becris-flat-becris.png" height="50" width="50"/> 󠀠󠀠6+ years of professional experience in Software development, well-versed in Software Development Lifecycle including Docker, Kubernetes and other tools, I'm also a Certified Kubernetes Administrator(CKA) by CNCF and Open Source contributer + maintainer of <a href="https://github.com/litmuschaos/litmus"> LitmusChaos 
   <br>
   <br>
 </h3>
