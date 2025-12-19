@@ -1,8 +1,13 @@
-<img align="right"  height="100" width="150" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" alt="man-comp" border="0" />
+<!-- <img align="right"  height="100" width="150" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" alt="man-comp" border="0" /> -->
+<!-- <img align="right" alt="Coding" width="150" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif"/> -->
 <h1 align="center">Hi there,<img src="https://img.icons8.com/color/48/000000/man-raising-hand-icon.png"/> I'm Chandan Kumar</h1>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=chandankumar4&label=Profile%20views&color=0e75b6&style=flat" alt="chandankumar4" /> </p>  
+<img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif"/>
 <h3 align="center">I'm a passionate Software Development Engineer󠀠<br>
-<img src="https://img.icons8.com/external-becris-flat-becris/64/000000/external-technology-literary-genres-becris-flat-becris.png" height="50" width="50"/> 󠀠󠀠6+ years of professional experience in Software development, well-versed in Software Development Lifecycle including Docker, Kubernetes and other tools, I'm also a Certified Kubernetes Administrator(CKA) by CNCF and Open Source contributer + maintainer of <a href="https://github.com/litmuschaos/litmus"> LitmusChaos 
+<img src="https://img.icons8.com/external-becris-flat-becris/64/000000/external-technology-literary-genres-becris-flat-becris.png" height="30" width="30"/> 󠀠󠀠6+ years of professional experience in Software development, well-versed in Software Development Lifecycle including Docker, Kubernetes and other tools, I'm also a Certified Kubernetes Administrator(CKA) by CNCF and Open Source contributer + maintainer of <a href="https://github.com/litmuschaos/litmus"> LitmusChaos 
   <br>
+  <br>
+   <br>
   <br>
 </h3>
 <table align="center">
@@ -27,8 +32,12 @@
 <p align="center">
  <img height="220em" src="http://github-readme-streak-stats.herokuapp.com?user=chandankumar4&hide_border=true"/> 
 </p><br>
+
+## Problem Solving
+
+[<a href="https://leetcode.com/u/chandankr210/"><img alt=" LeetCode " src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/></a>](https://leetcode.com/u/chandankr210)
+[<a href="https://www.hackerrank.com/profile/chandan_kr404?hr_r=1"><img src='https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white' alt='Hackerrank' height='40'></a>](https://www.hackerrank.com/profile/chandan_kr404?hr_r=1)
      
-<p align="center">Profile views<br><img  src="https://profile-counter.glitch.me/chandankumar4/count.svg" alt=""></p>
 <br>
 <p>📫 󠀠󠀠 How to reach me: <b>chandan.kr404@gmail.com</b></p>
 
