@@ -3,7 +3,7 @@
 <h1 align="center">Hi there,<img src="https://img.icons8.com/color/48/000000/man-raising-hand-icon.png"/> I'm Chandan Kumar</h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=chandankumar4&label=Profile%20views&color=0e75b6&style=flat" alt="chandankumar4" /> </p>  
 <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif"/>
-<h3 align="center">I'm a passionate Software Development Engineer󠀠<br>
+<h3 align="center">I'm a passionate Software Development Engineer󠀠<br><br>
 <img src="https://img.icons8.com/external-becris-flat-becris/64/000000/external-technology-literary-genres-becris-flat-becris.png" height="30" width="30"/> 󠀠󠀠6+ years of professional experience in Software development, well-versed in Software Development Lifecycle including Docker, Kubernetes and other tools, I'm also a Certified Kubernetes Administrator(CKA) by CNCF and Open Source contributer + maintainer of <a href="https://github.com/litmuschaos/litmus"> LitmusChaos 
   <br>
   <br>
